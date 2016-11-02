@@ -2,7 +2,7 @@
 # Made by IntSPstudio
 # Backup Engine
 # Thank you for using this software!
-# Version: 0.0.1.20161001
+# Version: 0.0.1.20161103
 # ID: 980002002
 #
 # Twitter: @IntSPstudio
@@ -71,7 +71,7 @@ clDateB = str(clDay) +"."+ str(clMonth) +"."+ str(clYear)
 #clDateB = str(clMonth) +"."+ str(clDay) +"."+ str(clYear)
 
 #CMD COLOR
-os.system("color a")
+#os.system("color a")
 
 #BACKGROUND
 bgdLine = "----------------------------------------------------------------"
